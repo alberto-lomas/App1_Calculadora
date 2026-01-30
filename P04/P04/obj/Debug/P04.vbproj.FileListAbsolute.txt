@@ -1,0 +1,12 @@
+C:\ALBERTO 25176\P04\P04\bin\Debug\P04.exe.config
+C:\ALBERTO 25176\P04\P04\bin\Debug\P04.exe
+C:\ALBERTO 25176\P04\P04\bin\Debug\P04.pdb
+C:\ALBERTO 25176\P04\P04\bin\Debug\P04.xml
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.vbprojAssemblyReference.cache
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.Form1.resources
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.Resources.resources
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.vbproj.GenerateResource.cache
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.vbproj.CoreCompileInputs.cache
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.exe
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.xml
+C:\ALBERTO 25176\P04\P04\obj\Debug\P04.pdb
